@@ -7,13 +7,11 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -49,8 +47,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@Arkan_Kovan](https://twitter.com/Arkan_Kovan)
 
 ## 🤝 Contributing
 
@@ -64,9 +61,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Special thanks to Awais-Amjed for reviewing and suggestions
 
 ## 📝 License
 
