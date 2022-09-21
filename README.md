@@ -4,20 +4,20 @@
 
 > Description the project.
 
+A simple website with a greeting to microverse. 
 
 ## Built With
 
 - HTML
 - CSS
 
-## Live Demo (if available)
+## Video Demonstration
 
-
+- Checkout my youtube channel a video soon will be avadbale about my experience doing this project.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Clone the project and use your preferred IDE to modify the project**
 
 
 To get a local copy up and running follow these simple example steps.
