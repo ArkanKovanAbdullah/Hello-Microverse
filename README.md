@@ -24,6 +24,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Copy repo link
 - Clone the repo. You can use any terminal but i suggest (Gitbash to do this)
+- Open index.html. Or modify as per your wishes.
 
 
 
