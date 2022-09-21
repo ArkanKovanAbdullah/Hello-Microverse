@@ -48,7 +48,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Special thanks to Awais-Amjed for reviewing and suggestions
+Special thanks to @Awais-Amjed for reviewing and suggestions
 
 ## 📝 License
 
