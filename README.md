@@ -22,17 +22,8 @@ A simple website with a greeting to microverse.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Copy repo link
+- Clone the repo. You can use any terminal but i suggest (Gitbash to do this)
 
 
 
